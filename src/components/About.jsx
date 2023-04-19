@@ -42,7 +42,7 @@ const About = () => {
       >
         I'm a skilled software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js and
-        TailwindCss. I'm a quick learner adn collaborate closely with clients to
+        TailwindCss. I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-freindly solutions that solve
         real-world problems. Let's Work together to bring your ideas to life!
       </motion.p>
